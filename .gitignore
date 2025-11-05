@@ -1,0 +1,15 @@
+# Ignorer tous les fichiers HTML
+*.html
+
+# Fichiers temporaires Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints
+
+# Fichiers temporaires ou sauvegardes
+*.tmp
+*.log
+*.bak
+~$*.docx
